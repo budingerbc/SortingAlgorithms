@@ -1,0 +1,15 @@
+linear insertion - n^2, n-1 passes over data list
+binary insertion - same idea as linear insertion but halves the data set continuously until all items are sorted, n log n, n^2 data movements
+shellsort - performs linear insertion on evenly separated sets of data multiple times
+
+bubblesort - compares two data values and 
+shakersort - like bubble, but goes both ways across the data structure and 
+quicksort - uses a pivot value, then finds an item larger and smaller and interchanges them
+
+straight selection - finds the smallest value and moves it to the correct place
+tree selection -
+heap sort -
+
+https://www.youtube.com/watch?v=SJwEwA5gOkM&feature=youtu.be  -  awesome video that explains 9 different sorting methods and their uses/efficiencies
+https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html - a site very similar to what I want to make
+https://visualgo.net/bn/sorting - another sorting site with pseudocode

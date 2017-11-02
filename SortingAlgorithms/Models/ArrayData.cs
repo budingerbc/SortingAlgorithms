@@ -1,14 +1,16 @@
 using System;
+using System.Linq;
 
 namespace SortingAlgorithms.Models
 {
   public class ArrayData
   {
-    private int[] _randomValues = new int[100];
+    private int[] _shuffledArray = new int[100];
 
     public ArrayData()
     {
-      Console.WriteLine(_randomValues);
+      _shuffledArray = Enumerable.Range(1, 100).ToArray();
+      Console.WriteLine(_shuffledArray);
     }
   }
 }

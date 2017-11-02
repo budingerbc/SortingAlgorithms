@@ -6,3 +6,5 @@
 /Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp1.1/SortingAlgorithms.pdb
 /Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.dll
 /Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.pdb
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.csproj.CoreCompileInputs.cache

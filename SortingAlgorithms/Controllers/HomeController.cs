@@ -10,6 +10,8 @@ namespace SortingAlgorithms.Controllers
     [HttpGet("/")]
     public ActionResult Index()
     {
+      ArrayData sort = new ArrayData();
+      Console.WriteLine(sort);
       return View();
     }
   }
