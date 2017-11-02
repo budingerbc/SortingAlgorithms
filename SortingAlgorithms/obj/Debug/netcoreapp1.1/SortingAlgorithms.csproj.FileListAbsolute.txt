@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp1.1/SortingAlgorithms.deps.json
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp1.1/SortingAlgorithms.runtimeconfig.json
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp1.1/SortingAlgorithms.runtimeconfig.dev.json
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.AssemblyInfo.cs
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp1.1/SortingAlgorithms.dll
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/bin/Debug/netcoreapp1.1/SortingAlgorithms.pdb
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.dll
+/Users/Guest/Desktop/SortingAlgorithms/SortingAlgorithms/obj/Debug/netcoreapp1.1/SortingAlgorithms.pdb
