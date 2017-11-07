@@ -13,3 +13,7 @@ heap sort -
 https://www.youtube.com/watch?v=SJwEwA5gOkM&feature=youtu.be  -  awesome video that explains 9 different sorting methods and their uses/efficiencies
 https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html - a site very similar to what I want to make
 https://visualgo.net/bn/sorting - another sorting site with pseudocode
+
+https://bl.ocks.org/mbostock/1582075
+
+1 2 3 4 5 6 7 8 9
